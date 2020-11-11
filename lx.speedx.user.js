@@ -2,10 +2,10 @@
 // @name         LX::Userscript SpeedX
 // @namespace    LX
 // @version      0.1
-// @updateUrl https://github.com/apollolux/lx-userscript-speedx/lx.speedx.user.js
+// @updateUrl https://raw.githubusercontent.com/apollolux/lx-userscript-speedx/main/lx.speedx.user.js
 // @description  More playback speeds in online video players
 // @author       LX
-// @homepage  https://www.luxatom.com
+// @homepage  https://github.com/apollolux/lx-userscript-speedx
 // @match        https://www.youtube.com/watch?*
 // @grant        none
 // ==/UserScript==
